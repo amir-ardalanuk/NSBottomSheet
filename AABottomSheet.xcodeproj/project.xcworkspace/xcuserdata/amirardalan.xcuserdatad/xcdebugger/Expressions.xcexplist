@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController1.showCustomView():ViewController1.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stack.frame.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BottomSheetView.setupCard():BottomSheetView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AABottomSheetView.continueInteractiveTransition():AABottomSheetView.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
